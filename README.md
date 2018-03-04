@@ -10,7 +10,7 @@ The data referenced in the notebook is from https://github.com/veekun/pokedex as
 
 ## Where can I see the notebook?
 
-[Pokedex.ipynb](Pokedex Notebook)
+[Pokedex Notebook](Pokedex.ipynb)
 
 The notebook is entirely re-producable.
 
