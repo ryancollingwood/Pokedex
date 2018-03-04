@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ryancollingwood/Pokedex/master?filepath=Pokedex.ipynb)
 
 ## What is this?
 
@@ -10,7 +10,9 @@ The data referenced in the notebook is from https://github.com/veekun/pokedex as
 
 ## Where can I see the notebook?
 
-[Pokedex Notebook](Pokedex.ipynb)
+Launch a runnable instance of this notebook: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ryancollingwood/Pokedex/master?filepath=Pokedex.ipynb)
+
+Otherwise [Pokedex Notebook](Pokedex.ipynb)
 
 The notebook is entirely re-producable.
 
@@ -23,17 +25,8 @@ Wanted to create a fun and relatable demonstration of using Notebook style analy
 * Add a better narrative around the linear regression at the end of the notebook - possibly create an additional notebook.
 * Bring in the Pokemon abilities as `list` into the dataset to demonstrate Pandas.DataFrames abilit to handle "complex" variable types.
 
----
-
-# Contact
-
-If you find this useful, let me know. Even better if you're able to improve upon it, I'd love to hear from you. Feedback is welcome.
-
-@ryancollingwood - twitter https://github.com/ryancollingwood - github www.linkedin.com/in/ryancollingwood - LinkedIn
 
 ---
-
-# Legals
 
 I make no claims as the ownership of data. MIT license applies, so in short do what you will but please credit the appropriate people.
 
