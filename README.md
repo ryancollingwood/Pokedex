@@ -12,7 +12,7 @@ The data referenced in the notebook is from https://github.com/veekun/pokedex as
 
 Launch a runnable instance of this notebook: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ryancollingwood/Pokedex/master?filepath=Pokedex.ipynb)
 
-Otherwise [Pokedex Notebook](Pokedex.ipynb)
+Otherwise view [Pokedex Notebook](Pokedex.ipynb) here on Github.
 
 The notebook is entirely re-producable.
 
